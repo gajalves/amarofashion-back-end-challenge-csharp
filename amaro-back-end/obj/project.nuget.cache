@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZJxjXy7Kny6FI9Fqgmd5F1IWyvEjabfQIPeo7IDJiYUrr3ROcXU2SiiJpaie2u470P1Y0/JlA4czgKQwd2s/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gajal\\source\\repos\\amaro-back-end\\amaro-back-end\\amaro-back-end.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gajal\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\gajal\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\gajal\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\gajal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
